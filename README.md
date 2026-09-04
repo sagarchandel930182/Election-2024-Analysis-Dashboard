@@ -1,2 +1,35 @@
 # Election-2024-Analysis-Dashboard
 Developed an interactive Power BI dashboard to analyze 2024 election results across states, parties, constituencies, and candidates. Created KPI cards to track total seats, seats won, total votes, and vote share. Built charts to compare state-wise results, party-wise seats, and constituency performance.
+
+🛠️ Tools & Technologies
+
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+📈 Key Analysis
+
+- Analyzed total seats, seats won, total votes, and vote share.
+- Compared state-wise and party-wise election results.
+- Evaluated constituency and candidate performance.
+- Analyzed winning margins and regional voting trends.
+- Identified top-performing parties and candidates.
+
+⚙️ Dashboard Features
+
+Created KPI cards, interactive charts, and slicers for State, Party, Constituency, and Candidate to enable detailed analysis of election results.
+
+💡 Key Insights
+
+Identified leading parties, top-performing candidates, regional voting patterns, and winning margins across different constituencies.
+
+📁 Project Files
+
+- "Power BI Dashboard" (Election_2024_Dashboard.pbix) — Power BI project file
+- "Dataset" (Dataset/Election_Data.xlsx) — Dataset used for analysis
+- "Dashboard Screenshot" (Dashboard_Screenshot/Election_Dashboard.png) — Dashboard preview
+
+🎯 Project Objective
+
+To use Power BI and data visualization to transform election data into meaningful insights and present complex information in a clear and interactive format.
